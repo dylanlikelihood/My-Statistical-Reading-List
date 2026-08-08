@@ -1,9 +1,7 @@
 # My-Statistical-Reading-List
 
-# The Undergraduate Statistician's Reading List
-
 **Dylan Armbruster**
-*March 26, 2025*
+*August 07, 2026*
 
 ## Mission Statement
 
@@ -13,9 +11,12 @@ Each entry in this list has been chosen because it offers something extra: a cle
 
 If I can offer any advice, I would say, get really comfortable with Mathematics and Computer Science. I've met too many students who fall behind in this major because they didn't have a strong enough Math and/or Computer Science background.
 
+With my recommendations, I've decided to keep it to one book per section. Any additional book I will leave it at the end of this document (with some exceptions)
+
+
 ---
 
-# Recommended Starting Path for the Casual Reader
+# For the Casual Reader
 
 ### High School Level Math — No Calculus Required
 
@@ -29,6 +30,9 @@ I found these two books by Freedman to do a much better job than other introduct
 
 **Note:** Supplement the text above with Freedman's workbook, or work on it after you've finished the text above. It is a bit more challenging because it includes exercises where you will write computations for algebraic proofs. (Don't worry! You don't need to know how to write proofs.) This workbook mainly covers mathematical concepts relevant to statistics. Solutions to odd-numbered questions are included.
 
+
+### *An Introduction to Probability and Inductive Logic*
+
 ---
 
 # Reading List for Other Topics in Statistics
@@ -37,46 +41,50 @@ I found these two books by Freedman to do a much better job than other introduct
 
 * *Statistical Rethinking* — McElreath
 
-  * **Note:** This book is very unique compared to other texts. It has become more popular to include either R code or Python code, but this book offers a workflow along with it. You also get exposed to very relevant and useful topics today, such as Causal Inference and how to deal with Missing data. Of course, you also get exposed to Bayesian Statistics, which you won't really see unless you take a Masters-level class.
-* *Bayesian Data Analysis, Third Edition* — Chapman & Hall/CRC Texts in Statistical Science
+  * **Note:** This book is very unique compared to other texts. It has become more popular to include either R code or Python code, but this book offers a workflow along with it. You also get exposed to very relevant and useful topics today, such as Causal Inference and how to deal with Missing data. Of course, you also get exposed to Bayesian Statistics, which you won't really see unless you take a Masters-level class. This is the only Bayesian book that I've read so far. I'm sure Bayesian Data Analysis from Gelman or the more theoretical text Statistical Decision Theory and Bayesian Analysis from Berger are good, I just don't have much interest in Bayesian Statistics in comparison to other subjects at this time.
+
 
 ## Probability
 
-* *An Introduction to Probability and Inductive Logic*
 * *Introduction to Probability, Second Edition* — Blitzstein
 * [Lecture Video Series for the Blitzstein Book](https://projects.iq.harvard.edu/stat110/home)
 
 ## Mathematical Statistics
 
-**Requires at least Calculus 3**
+**Requires Multivariable Calculus**
 
-* *Mathematical Statistics with Applications, 7th Edition*
+* *Mathematical Statistics with Applications - Wackerly* (If you have done Advanced Calculus/Real Analysis you can look at Statistical Inference by Casella and Berger)
 
-## Statistical Inference
+## Hypothesis Testing
 
-* *Improving Your Statistical Inferences* — Lakens
-* *Confidence, Likelihood, Probability: Statistical Inference with Confidence Distributions* — Schweder et al.
+* Statistical Hypothesis Testing in Context - Fay
 
 ## Non-Parametric Statistics
 
 * *All of Nonparametric Statistics* — Wasserman
 
-## Mathematical Statistics
+## Statistical Inference
 
-**Started Real Analysis / Advanced Calculus**
-
-* *Statistical Inference*
-
-  * **Note:** Graduate-level text.
+* *Improving Your Statistical Inferences* — Lakens
 
 ## DOE (Design of Experiments) and Design of Clinical Trials
 
 * *Statistics for Experimenters: Design, Innovation, and Discovery, 2nd Edition*
-* *Introduction to Randomized Controlled Clinical Trials* — Matthews
-* *Statistical Issues in Drug Development* — Senn
+
 * *The Design of Experiments* — Fisher
 * *Clinical Trials: A Practical Approach* — Pocock
-* *Design of Observational Studies* — Rosenbaum
+
+## Randomized Clinical Trials
+
+* *Introduction to Randomized Controlled Clinical Trials* — Matthews
+
+## Design Of Observational Studies
+
+* *Design of Observational Studies* — Rosenbaum (There is a new book, An Introduction to the Theory of Observational Studies)
+
+## Medical Statistics
+
+* *Statistical Issues in Drug Development* — Senn
 
 ## The Bootstrap
 
@@ -90,14 +98,17 @@ I found these two books by Freedman to do a much better job than other introduct
 
 * *Large-Scale Inference* — Efron
 
-## Applied Linear Regression
+## Regression
 
-* *Applied Linear Regression Models*
-* *Statistical Regression and Classification: From Linear Models to Machine Learning*
+* *All of Regression - Wasserman*
+
+## Linear Models
+
+* *Linear and Generalized Linear Models* - Agresti
 
 ## Generalized Linear Models
 
-* *Generalized Linear Models*
+* *Generalized Linear Models* - McCullagh and Nelder
 
 ## Categorical Data Analysis
 
@@ -105,7 +116,6 @@ I found these two books by Freedman to do a much better job than other introduct
 
 ## Machine Learning
 
-* *An Introduction to Statistical Learning: with Applications in Python* — James et al.
 * *Probabilistic Machine Learning: An Introduction* — Murphy
   *Adaptive Computation and Machine Learning series*
 
@@ -124,16 +134,8 @@ I found these two books by Freedman to do a much better job than other introduct
 ## Casual Reading on Statistics
 
 * *Dicing with Death (Living by Data)* — Senn
-* *Probability, Statistics and Truth* — Von Mises et al.
 * *The Seven Pillars of Statistical Wisdom* — Stigler
 * *The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century* — Salsburg
-
-## Hypothesis Testing
-
-* *Statistical Hypothesis Testing in Context: Volume 52: Reproducibility, Inference, and Science* — Fay et al.
-
-  * Cambridge Series in Statistical and Probabilistic Mathematics, Series Number 52
-* *Testing Statistical Hypotheses* — Lehmann et al.
 
 ---
 
@@ -141,8 +143,14 @@ I found these two books by Freedman to do a much better job than other introduct
 
 ## R Programming
 
-* *The Art of R Programming: A Tour of Statistical Software Design*
+* *R by Example (Use R!)* - Albert and Rizzo
+
+## R Pipelines
 * *Building Reproducible Analytical Pipelines with R*
+
+## Tidyverse
+
+* *Tidy Modeling with R: A Framework for Modeling in the Tidyverse* - Kuhn and Silge
 
 ## Python
 
@@ -158,15 +166,11 @@ I found these two books by Freedman to do a much better job than other introduct
 
 # Causal Inference
 
-* *The Book of Why* — Pearl et al.
-* *The Effect: An Introduction to Research Design and Causality* — Huntington-Klein
-* *Observation and Experiment: An Introduction to Causal Inference* — Rosenbaum
 * *A First Course in Causal Inference* — Ding
-* *Causal Inference* — Rothman
-* *Statistical Models and Causal Inference: A Dialogue with the Social Sciences* — Freedman
-* *Causal Inference: What If* — Robins, Hernan
-* *Causality: Models, Reasoning and Inference* — Pearl
 
+## Less Technical Causal Inference Book
+
+* *The Effect: An Introduction to Research Design and Causality* — Huntington-Klein
 ---
 
 # Papers, Blogs, and YouTube Videos
@@ -228,4 +232,3 @@ I found these two books by Freedman to do a much better job than other introduct
 ## Math Proofs
 
 * *Book of Proof* — Hammack
-* *Mathematical Maturity via Discrete Mathematics* — Ponomarenko
