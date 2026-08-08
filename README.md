@@ -64,6 +64,10 @@ I found these two books by Freedman to do a much better job than other introduct
 
 * *Improving Your Statistical Inferences* — Lakens
 
+## Large Sample Theory
+
+* *Elements of Large-Sample Theory* - Lehmann
+
 ## DOE (Design of Experiments) and Design of Clinical Trials
 
 * *Statistics for Experimenters: Design, Innovation, and Discovery, 2nd Edition*
