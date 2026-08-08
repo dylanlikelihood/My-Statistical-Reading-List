@@ -11,7 +11,7 @@ Each entry in this list has been chosen because it offers something extra: a cle
 
 If I can offer any advice, I would say, get really comfortable with Mathematics and Computer Science. I've met too many students who fall behind in this major because they didn't have a strong enough Math and/or Computer Science background.
 
-With my recommendations, I've decided to keep it to one book per section. Any additional book I will leave it at the end of this document (with some exceptions)
+With my recommendations, I've decided to keep it to one book for the main statistical sections. Any additional book I will leave it at the end of this document (with some exceptions)
 
 
 ---
