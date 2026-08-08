@@ -11,9 +11,6 @@ Each entry in this list has been chosen because it offers something extra: a cle
 
 If I can offer any advice, I would say, get really comfortable with Mathematics and Computer Science. I've met too many students who fall behind in this major because they didn't have a strong enough Math and/or Computer Science background.
 
-With my recommendations, I've decided to keep it to one book for the main statistical sections. Any additional book I will leave it at the end of this document (with some exceptions)
-
-
 ---
 
 # For the Casual Reader
@@ -71,9 +68,6 @@ I found these two books by Freedman to do a much better job than other introduct
 
 * *Statistics for Experimenters: Design, Innovation, and Discovery, 2nd Edition*
 
-* *The Design of Experiments* — Fisher
-* *Clinical Trials: A Practical Approach* — Pocock
-
 ## Randomized Clinical Trials
 
 * *Introduction to Randomized Controlled Clinical Trials* — Matthews
@@ -82,6 +76,10 @@ I found these two books by Freedman to do a much better job than other introduct
 
 * *Design of Observational Studies* — Rosenbaum (There is a new book, An Introduction to the Theory of Observational Studies)
 
+## Optimal Design
+
+* *Optimal Design of Experiments: A Case Study Approach* - Goos and Jones
+
 ## Medical Statistics
 
 * *Statistical Issues in Drug Development* — Senn
@@ -89,6 +87,11 @@ I found these two books by Freedman to do a much better job than other introduct
 ## The Bootstrap
 
 * *An Introduction to the Bootstrap* — Efron et al.
+
+## Case Studies from  a Statistician
+
+* *Ten Projects in Applied Statistics* - McCullagh
+ * Easily one of the coolest books I've ever seen. You get to see how a seasoned statistician thinks about statistics.
 
 ## Likelihoodism
 
@@ -116,8 +119,7 @@ I found these two books by Freedman to do a much better job than other introduct
 
 ## Machine Learning
 
-* *Probabilistic Machine Learning: An Introduction* — Murphy
-  *Adaptive Computation and Machine Learning series*
+* *Understanding Machine Learning* — Shalev-Shwartz 
 
 ## Philosophy of Statistics
 
@@ -136,6 +138,11 @@ I found these two books by Freedman to do a much better job than other introduct
 * *Dicing with Death (Living by Data)* — Senn
 * *The Seven Pillars of Statistical Wisdom* — Stigler
 * *The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century* — Salsburg
+
+
+### Honorable mentions
+* *The Design of Experiments* — Fisher
+* *Clinical Trials: A Practical Approach* — Pocock
 
 ---
 
