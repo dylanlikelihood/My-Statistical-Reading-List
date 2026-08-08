@@ -41,7 +41,7 @@ I found these two books by Freedman to do a much better job than other introduct
   * **Note:** This book is very unique compared to other texts. It has become more popular to include either R code or Python code, but this book offers a workflow along with it. You also get exposed to very relevant and useful topics today, such as Causal Inference and how to deal with Missing data. Of course, you also get exposed to Bayesian Statistics, which you won't really see unless you take a Masters-level class. This is the only Bayesian book that I've read so far. I'm sure Bayesian Data Analysis from Gelman or the more theoretical text Statistical Decision Theory and Bayesian Analysis from Berger are good, I just don't have much interest in Bayesian Statistics in comparison to other subjects at this time.
 
 
-## Probability
+## Probability Theory
 
 * *Introduction to Probability, Second Edition* — Blitzstein
 * [Lecture Video Series for the Blitzstein Book](https://projects.iq.harvard.edu/stat110/home)
